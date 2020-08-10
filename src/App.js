@@ -40,9 +40,9 @@ class App extends Component {
                 <div className="calc-wrapper">
                     <Input input={this.state.input} />
                     <div className="row">
-                        <Button handleClick={this.addToInput}>7</Button>
-                        <Button handleClick={this.addToInput}>8</Button>
-                        <Button handleClick={this.addToInput}>9</Button>
+                        <Button handleClick={this.addToInput}>70</Button>
+                        <Button handleClick={this.addToInput}>80</Button>
+                        <Button handleClick={this.addToInput}>90</Button>
                         <Button handleClick={this.addToInput}>/</Button>
                     </div>
                     <div className="row">
