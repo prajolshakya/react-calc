@@ -1,3 +1,13 @@
+Simple Calculator app built using React. js
+
+To use do the following:
+1. Clone the repository 
+2. npm install
+3. yarn start
+
+Note: working on https://prajolshakya.github.io/react-calc/
+
+--------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
